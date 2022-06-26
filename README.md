@@ -1,2 +1,4 @@
 # netflix_analysis
-jupyter notebook
+Datest: kaggle.com
+
+Analysis: jupyter notebook
